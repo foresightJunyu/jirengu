@@ -2,8 +2,8 @@
 
 ### 声明对象的两种语法
 
-- `var obj = new Object({name: 'twoheart', gender: 'male'})`
-- `var obj2 = {name: 'twoheart', gender: 'male'}`
+- `var obj = new Object({name: 'lichen', gender: 'male'})`
+- `var obj2 = {name: 'lichen', gender: 'male'}`
   注意：
 
 1. key 是字符串，不是标识符
@@ -16,7 +16,7 @@
 
 ```Javascript
 var obj = {
-name: 'twoheart',
+name: 'lichen',
 gender: 'male'
 }
 delete obj.gender
